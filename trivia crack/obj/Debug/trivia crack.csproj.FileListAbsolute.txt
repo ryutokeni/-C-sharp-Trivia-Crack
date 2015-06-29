@@ -1,0 +1,122 @@
+c:\users\ryuto\documents\visual studio 2013\Projects\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+c:\users\ryuto\documents\visual studio 2013\Projects\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+c:\users\ryuto\documents\visual studio 2013\Projects\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+c:\users\ryuto\documents\visual studio 2013\Projects\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+c:\users\ryuto\documents\visual studio 2013\Projects\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+c:\users\ryuto\documents\visual studio 2013\Projects\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+c:\users\ryuto\documents\visual studio 2013\Projects\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+c:\users\ryuto\documents\visual studio 2013\Projects\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+c:\users\ryuto\documents\visual studio 2013\Projects\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+C:\Users\RiN\Desktop\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+C:\Users\RiN\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+C:\Users\RiN\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+C:\Users\RiN\Desktop\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+C:\Users\RiN\Desktop\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+C:\Users\RiN\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+C:\Users\RiN\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+C:\Users\RiN\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+C:\Users\RiN\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_2\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_2\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_2\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.FormQuestion.resources
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_4\trivia crack_2\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_4\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_4\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_4\trivia crack_2\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_4\trivia crack_2\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_4\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_4\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_4\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.FormQuestion.resources
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_4\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+C:\Users\Ryuto\Documents\Visual Studio 2013\Projects\trivia crack_4\trivia crack_2\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.FormQuestion.resources
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+C:\Users\Ryuto\Downloads\Compressed\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+C:\Users\Ryuto\Downloads\Compressed\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+C:\Users\Ryuto\Downloads\Compressed\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+C:\Users\Ryuto\Downloads\Compressed\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+C:\Users\Ryuto\Downloads\Compressed\trivia crack\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+C:\Users\Ryuto\Downloads\Compressed\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+C:\Users\Ryuto\Downloads\Compressed\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.FormQuestion.resources
+C:\Users\Ryuto\Downloads\Compressed\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+C:\Users\Ryuto\Downloads\Compressed\trivia crack\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+C:\Users\Ryuto\Downloads\Compressed\trivia crack\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+D:\DoAnCNPM\Trivial_NoRecovery\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+D:\DoAnCNPM\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+D:\DoAnCNPM\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+D:\DoAnCNPM\Trivial_NoRecovery\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+D:\DoAnCNPM\Trivial_NoRecovery\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+D:\DoAnCNPM\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+D:\DoAnCNPM\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+D:\DoAnCNPM\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia_crack.FormQuestion.resources
+D:\DoAnCNPM\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+D:\DoAnCNPM\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia_crack.FormQuestion.resources
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\bin\Debug\en\trivia crack.resources.dll
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.en.resources
+C:\Users\Ryuto\Downloads\Compressed\Trivial_WithRecovery\Trivial_NoRecovery\trivia crack\trivia crack\obj\Debug\en\trivia crack.resources.dll
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\bin\Debug\en\trivia crack.resources.dll
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\obj\Debug\trivia_crack.FormQuestion.resources
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.en.resources
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\obj\Debug\en\trivia crack.resources.dll
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\bin\Debug\en\trivia crack.resources.dll
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\obj\Debug\trivia_crack.FormQuestion.resources
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.en.resources
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+C:\Users\Ryuto\Downloads\Compressed\FaceAFace\trivia crack\trivia crack\obj\Debug\en\trivia crack.resources.dll
+C:\Users\Razer Duy\Desktop\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\bin\Debug\trivia crack.exe.config
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia crack.exe
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia crack.pdb
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\bin\Debug\trivia crack.exe
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\bin\Debug\trivia crack.pdb
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\bin\Debug\en\trivia crack.resources.dll
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia crack.csprojResolveAssemblyReference.cache
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.resources
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia_crack.FormQuestion.resources
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia_crack.Properties.Resources.resources
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia_crack.Form1.en.resources
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.GenerateResource.Cache
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\en\trivia crack.resources.dll
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.ResolveComReference.cache
