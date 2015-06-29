@@ -8,6 +8,7 @@ using System.Xml.Serialization;
 
 namespace trivia_crack
 {
+
     [Serializable()]
     [XmlRoot("Game")]
     public class Game

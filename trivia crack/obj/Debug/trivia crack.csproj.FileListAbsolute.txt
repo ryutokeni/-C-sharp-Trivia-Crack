@@ -120,3 +120,8 @@ C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia cra
 C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\en\trivia crack.resources.dll
 C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\Interop.WMPLib.dll
 C:\Users\Ryuto\Desktop\j'aime\app\trivia crack\trivia crack\obj\Debug\trivia crack.csproj.ResolveComReference.cache
+C:\Users\Ryuto\Documents\GitHub\Trivia-Crack\trivia crack\bin\Debug\trivia crack.exe.config
+C:\Users\Ryuto\Documents\GitHub\Trivia-Crack\trivia crack\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ryuto\Documents\GitHub\Trivia-Crack\trivia crack\obj\Debug\trivia crack.csproj.ResolveComReference.cache
+C:\Users\Ryuto\Documents\GitHub\Trivia-Crack\trivia crack\obj\Debug\trivia crack.exe
+C:\Users\Ryuto\Documents\GitHub\Trivia-Crack\trivia crack\obj\Debug\trivia crack.pdb
